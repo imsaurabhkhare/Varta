@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Social</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_profile_name_length">Max length of the name should be less than 120 symbols</string>
+</resources>
